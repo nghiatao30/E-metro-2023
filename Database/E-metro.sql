@@ -111,6 +111,6 @@ ALTER DATABASE [E-metro] SET QUERY_STORE = OFF
 GO
 
 ALTER DATABASE [E-metro] SET  READ_WRITE 
-GO
 
+--tao bang
 
